@@ -26,4 +26,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> <strong>Bash</strong>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <strong>Git</strong>  
 </p>
+<div align="left">
+  <h2><strong>📬 Contact</strong></h2>
+  <p>Contact me via: <a href="mailto:abiolasamwel@gmail.com">abiolasamwel@gmail.com</a></p>
+</div>
+
 
