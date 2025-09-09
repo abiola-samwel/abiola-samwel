@@ -27,8 +27,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <strong>Git</strong>  
 </p>
 <div align="left">
-  <h2><strong>📬 Contact</strong></h2>
-  <p>Contact me via: <a href="mailto:abiolasamwel@gmail.com">abiolasamwel@gmail.com</a></p>
+
+  <h4><strong>🔧 Other Tools I Use</strong></h4>
+  <ul>
+    <li><strong>Wireshark</strong> – Packet analysis</li>
+    <li><strong>Nmap</strong> – Network scanning</li>
+    <li><strong>Burp Suite (Community)</strong> – Web security testing</li>
+    <li><strong>OpenVAS / Greenbone</strong> – Vulnerability assessment</li>
+    <li><strong>Splunk / Wazuh</strong> – SIEM basics (currently learning)</li>
+    <li><strong>Sysinternals Suite</strong> – Windows investigation tools</li>
+  </ul>
+
+</div>
+
+<div align="left">
+  <h2><strong> Contact</strong></h2>
+  <p>Get in touch via: <a href="mailto:abiolasamwel@gmail.com">abiolasamwel@gmail.com</a></p>
 </div>
 
 
