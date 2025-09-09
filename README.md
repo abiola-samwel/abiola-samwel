@@ -17,8 +17,8 @@
   </ul>
 
 </div>
-<p align="left">
   <h2 align="left"><strong>🛠️ Tech Stack & Security Tools</strong></h2
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> Linux  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/> Windows  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> Python  
