@@ -41,8 +41,21 @@
 </div>
 
 <div align="left">
-  <h2><strong> Contact</strong></h2>
-  <p>Get in touch via: <a href="mailto:abiolasamwel@gmail.com">abiolasamwel@gmail.com</a></p>
+  <h2><strong>📌 Current Project Highlight</strong></h2>
+  <p>
+    I recently deployed a <strong>T-Pot Honeypot Lab</strong> on Microsoft Azure.  
+    This project involved:
+  </p>
+  <ul>
+    <li>Provisioning a secure Ubuntu VM on Azure with SSH key authentication</li>
+    <li>Configuring firewall rules and custom SSH ports for enhanced security</li>
+    <li>Installing and deploying <strong>T-Pot (All-in-One Honeypot Framework)</strong></li>
+    <li>Accessing the <strong>T-Pot Web Dashboard</strong> for real-time attack visualization</li>
+    <li>Documenting the full step-by-step deployment process (available in this repo)</li>
+  </ul>
 </div>
 
-
+<div align="left">
+  <h2><strong>📬 Contact</strong></h2>
+  <p>Get in touch via: <a href="mailto:abiolasamwel@gmail.com">abiolasamwel@gmail.com</a></p>
+</div>
