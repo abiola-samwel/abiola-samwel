@@ -51,7 +51,7 @@
     <li>Configuring firewall rules and custom SSH ports for enhanced security</li>
     <li>Installing and deploying <strong>T-Pot (All-in-One Honeypot Framework)</strong></li>
     <li>Accessing the <strong>T-Pot Web Dashboard</strong> for real-time attack visualization</li>
-    <li>Documenting the full step-by-step deployment process (available in this repo)</li>
+    <li>Documenting the full step-by-step deployment process </li>
   </ul>
 </div>
 
