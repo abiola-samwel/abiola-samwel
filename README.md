@@ -20,15 +20,20 @@
 </div>
 
 ---
+<h2 align="left"><strong>Featured Projects</strong></h2>
 
-<h2 align="left"><strong> Featured Project</strong></h2>
-
- <a href="https://github.com/abiola-samwel/cowrie_analysis"><strong>Cowrie Honeypot Analysis on Azure</strong></a>  
+<a href="https://github.com/abiola-samwel/cowrie_analysis"><strong>Cowrie Honeypot Analysis on Azure</strong></a>  
 - Deployed a <strong>T-Pot honeypot</strong> in Azure cloud  
 - Captured SSH brute force attacks via <strong>Cowrie</strong>  
 - Built a custom <strong>Python analyzer</strong> that generates CSV reports & graphs of attackers, credentials, and timelines  
 - Developed a <strong>live SOC-style dashboard</strong> with auto-refreshing attack tables  
 - Combined with <strong>Kibana dashboards</strong> for visual insights  
+
+<a href="https://github.com/abiola-samwel/password-strength"><strong>AI-Powered Password Strength Checker</strong></a>  
+- Developed a tool that provides real-time insights into password strength  
+- Verifies if passwords have been compromised in known data breaches  
+- Utilizes AI-driven password classification and practical breach detection  
+- Demonstrates modern cybersecurity practices in password security  
 
 ---
 
